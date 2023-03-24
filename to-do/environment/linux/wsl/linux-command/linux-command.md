@@ -1,4 +1,4 @@
-# command-line
+# command
 
 ## 1. **Effect**
 

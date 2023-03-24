@@ -1,4 +1,4 @@
-# git
+# [Git][Git]
 
 ## 1. **Effect**
 
@@ -30,6 +30,7 @@
     ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
     cat ~/.ssh/id_rsa.pub
     ssh -T git@github.com
+    // 后面这里可以使用VScode自带的图形化界面
     git init
     touch README.md
     git add README.md
@@ -40,4 +41,31 @@
 
 ## 3. **Components**
 
-1. **Git的基本命令(command)**: 提交 分支...
+1. linux-command:
+   1. getter
+      1. ssh-keygen
+      2. touch
+   2. accessor
+      1. cat
+      2. cd
+   3. jugder
+      1. ssh
+   4. modifier
+      1. sudo
+      2. apt-get
+2. git-command
+   1. getter
+      1. git init
+      2. git add
+      3. git commit
+      4. git remote add
+      5. git push
+   2. accessor
+   3. jugder
+      1. --
+         1. --global
+         2. --version
+   4. modifier
+      1. git config
+
+[Git]: https://blog.csdn.net/qq_56599702/article/details/129745792
