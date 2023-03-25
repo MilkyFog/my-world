@@ -1,4 +1,4 @@
-# commit
+# [git-commit][git-commit]
 
 ## 1. **Effects** git中git commit命令的相关使用
 
@@ -15,3 +15,5 @@
 4. git commit -a -m "commit message"
 
 ## 3. **Components**
+
+[git-commit]: https://blog.csdn.net/qq_56599702/article/details/129758565

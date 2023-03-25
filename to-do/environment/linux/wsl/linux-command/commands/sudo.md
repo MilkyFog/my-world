@@ -7,6 +7,8 @@
 3. 查看sudo的历史记录
 4. 查看sudo版本信息
 5. 自定义sudo配置
+6. 如何保留当前的环境变量下 打开新的bash shell
+7. 如何输出当前用户的环境变量
 
 ## 2. **Solutions**
 
@@ -15,5 +17,7 @@
 3. sudo -l
 4. sudo -V
 5. sudo visudo
+6. sudo -E bash
+7. sudo -E echo $PATH
 
 ## 3. **Components**

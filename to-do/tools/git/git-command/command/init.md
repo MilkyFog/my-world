@@ -1,4 +1,4 @@
-# init
+# [init][git-init]
 
 ## 1. **Effects** git中git init命令的相关使用
 
@@ -17,3 +17,5 @@
 5. git init --bare
 
 ## 3. **Components**
+
+[git-init]: https://blog.csdn.net/qq_56599702/article/details/129758498

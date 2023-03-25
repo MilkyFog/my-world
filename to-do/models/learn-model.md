@@ -1,4 +1,4 @@
-# laern-model
+# [laern-model][learn]
 
 ## 1. **Effects** 程序员如何进行高效学习的 高效学习的步骤
 
@@ -19,3 +19,5 @@
 6. 写博客 教导别人 费曼学习法
 
 ## 3. **Components**
+
+[learn]: https://blog.csdn.net/qq_56599702/article/details/129758315

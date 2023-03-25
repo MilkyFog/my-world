@@ -1,4 +1,4 @@
-# push
+# [git-push][git-push]
 
 ## 1. **Effects** git中git push命令的相关使用
 
@@ -17,3 +17,5 @@
 5. git push origin main --dry-run
 
 ## 3. **Components**
+
+[git-push]: https://blog.csdn.net/qq_56599702/article/details/129758576

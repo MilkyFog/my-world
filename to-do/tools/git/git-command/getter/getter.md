@@ -9,9 +9,14 @@
 
 ## 2. **Solutions**
 
-1. git init
-2. git add
-3. git commit
-4. git push
+1. [git-init][git-init]
+2. [git-add][git-add]
+3. [git-commit][git-commit]
+4. [git-push][git-push]
 
 ## 3. **Components**
+
+[git-add]: https://blog.csdn.net/qq_56599702/article/details/129758510
+[git-init]: https://blog.csdn.net/qq_56599702/article/details/129758498
+[git-commit]: https://blog.csdn.net/qq_56599702/article/details/129758565
+[git-push]: https://blog.csdn.net/qq_56599702/article/details/129758576

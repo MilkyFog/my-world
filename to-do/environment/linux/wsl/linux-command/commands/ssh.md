@@ -1,6 +1,6 @@
-# ssh
+# 安全外壳协议(ssh, Secure Shell)
 
-## 1. **Effects:** 如何使用ssh命令
+## 1. **Effects:** Linux下如何使用ssh命令
 
 1. 如何连接到远程服务器
 2. 如何指定端口号连接
@@ -12,10 +12,10 @@
 ## 2. **Solutions**
 
 1. `ssh username@remote_host`
-2. ssh -p port_number username@remote_host
-3. ssh username@remote_host ls
-4. ssh -T username@remote_host
-5. ssh -v username@remote_host
-6. exit || Ctrl + D
+2. `ssh -p port_number username@remote_host`
+3. `ssh username@remote_host ls`
+4. `ssh -T username@remote_host`
+5. `ssh -v username@remote_host`
+6. `exit` || `Ctrl + D`
 
 ## 3. **Components**

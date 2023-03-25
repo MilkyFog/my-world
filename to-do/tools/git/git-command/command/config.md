@@ -1,4 +1,4 @@
-# config
+# [git-config][git-config]
 
 ## 1. **Effects** git中git config命令的相关使用
 
@@ -15,3 +15,5 @@
 4. `git config --unset (user.name || user.email)`
 
 ## 3. **Components**
+
+[git-config]: https://blog.csdn.net/qq_56599702/article/details/129758616

@@ -1,4 +1,4 @@
-# add
+# [add][git-add]
 
 ## 1. **Effects** git中git add命令的相关使用
 
@@ -19,3 +19,5 @@
 6. git add file-name -m "commit message"
 
 ## 3. **Components**
+
+[git-add]: https://blog.csdn.net/qq_56599702/article/details/129758510

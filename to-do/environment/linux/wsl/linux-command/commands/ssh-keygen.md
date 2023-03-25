@@ -1,6 +1,6 @@
-# ssh-keygen
+# 安全外壳协议注册机(ssh-keygen, Secure Shell)
 
-## 1. **Effects** 如何使用ssh-keygen命令
+## 1. **Effects** Linux下如何使用ssh-keygen命令
 
 1. 如何生成RSA密钥对
 2. 如何指定密钥文件存储位置
