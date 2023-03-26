@@ -4,15 +4,15 @@
 
 ## 1. **Effects**
 
-1. 如何使用wget下载安装npm
-2. sudo sh install.sh时候报错install.sh: 166: /usr/bin/node: Exec format error怎么办
+1. **如何存储已安装的依赖包**
+2. **如何存储项目的元数据 依赖项列表 配置信息**
+3. **如何锁定当前安装依赖的版本号 npm根据什么文件来安装相应版本的依赖包**
 
 ## 2. **Solutions**
 
-1. apt-get
-   1. `wget https://npmjs.org/install.sh`
-   2. `sudo sh install.sh`
-   3. `npm -v`
+1. node_modules
+2. package.json
+3. package-lock.json
 
 ## 3. **Components**
 
