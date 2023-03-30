@@ -1,8 +1,8 @@
-# sh // TODO
+# sh
 
 **Github仓库地址**: <https://github.com/MilkyFog/my-world>
 
-## 1. **Effects** Linux下sh命令的相关使用
+## 1. **Effects** Linux下sh命令的作用和相关使用
 
 1. 如何运行shell脚本
 2. 如何给shell脚本设置可执行权限

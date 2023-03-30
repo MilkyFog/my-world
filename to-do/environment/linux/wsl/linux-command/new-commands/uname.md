@@ -1,8 +1,8 @@
-# uname // TODO
+# uname
 
 **Github仓库地址**: <https://github.com/MilkyFog/my-world>
 
-## 1. **Effects** Linux下uname命令的相关使用
+## 1. **Effects** Linux下uname命令的作用和相关使用
 
 1. 显示操作系统名称
 2. 显示操作系统版本号

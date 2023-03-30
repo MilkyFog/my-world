@@ -1,8 +1,8 @@
-# nano // TODO
+# nano
 
 **Github仓库地址**: <https://github.com/MilkyFog/my-world>
 
-## 1. **Effects** Linux下nano命令的相关使用
+## 1. **Effects** Linux下nano命令的作用和相关使用
 
 1. 打开文件
 2. 保存文件
@@ -20,7 +20,7 @@
 
 ## 2. **Solutions**
 
-1. nano file
+1. `nano file`
 2. `Ctlr + O`
 3. `Ctrl + X`
 4. `Ctrl + W`

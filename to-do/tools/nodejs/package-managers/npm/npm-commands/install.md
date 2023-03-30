@@ -1,8 +1,8 @@
-# install // TODO
+# install
 
 **Github仓库地址**: <https://github.com/MilkyFog/my-world>
 
-## 1. **Effects**
+## 1. **Effects** npm install相关命令的作用和使用
 
 1. 如何根据package.json文件安装依赖项
 2. 如何安装指定的依赖项

@@ -1,8 +1,8 @@
-# wget // TODO
+# wget
 
 **Github仓库地址**: <https://github.com/MilkyFog/my-world>
 
-## 1. **Effects** Linux下wget命令的相关操作
+## 1. **Effects** Linux下wget命令的作用和相关使用
 
 1. 如何从网络上下载软件包
 2. 如何下载文件并指定保存路径

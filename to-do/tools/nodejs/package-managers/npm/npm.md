@@ -1,4 +1,4 @@
-# npm // TODO
+# npm
 
 **Github仓库地址**: <https://github.com/MilkyFog/my-world>
 
@@ -10,9 +10,9 @@
 
 ## 2. **Solutions**
 
-1. node_modules
-2. package.json
-3. package-lock.json
+1. `node_modules`
+2. `package.json`
+3. `package-lock.json`
 
 ## 3. **Components**
 

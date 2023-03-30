@@ -1,8 +1,8 @@
-# tar // TODO
+# tar
 
 **Github仓库地址**: <https://github.com/MilkyFog/my-world>
 
-## 1. **Effects** Linux下tar命令的相关操作
+## 1. **Effects** Linux下tar命令的作用和相关使用
 
 1. -c -v -z -x -r -d的作用
 2. --exclude的作用
